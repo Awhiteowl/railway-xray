@@ -24,11 +24,11 @@
     "settings": {
       "vnext": [
         {
-          "address": "railway-xray-production-de28.up.railway.app",  // همین آدرس رو بذار
+          "address": "railway-xray-production-de28.up.railway.app",  // 
           "port": 443,
           "users": [
             {
-              "id": "4594b216-c827-43d0-824c-6d4c144540f1",  // UUID واقعی
+              "id": "4594b216-c827-43d0-824c-6d4c144540f1",  //  
               "alterId": 64
             }
           ]
